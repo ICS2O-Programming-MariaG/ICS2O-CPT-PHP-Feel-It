@@ -14,6 +14,6 @@
     <!-- Link to Phaser Code -->
     <script src="//cdn.jsdelivr.net/npm/phaser@3.54.0/dist/phaser.js"></script>
     <!-- Link to PHP file -->
-    <script type="module" src="./game.php"></script>
+    <script src="./game.php"></script>
   </body>
 </html>
